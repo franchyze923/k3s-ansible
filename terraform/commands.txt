@@ -1,0 +1,4 @@
+terraform init
+terraform apply --auto-approve
+
+to get a new token for proxmox credentials, log in go to datacenter and just re generate a new token. Uncheck the sepration box 
